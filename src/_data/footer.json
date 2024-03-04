@@ -1,0 +1,29 @@
+{
+  "footerLogo": "/assets/images/logo-footer.png",
+
+  "contactsHeading": "Me contacter",
+  "contactsInfo": [
+    {
+      "link": "https://maps.app.goo.gl/fUCjJayo94zcAEXj8",
+      "text": "7 rue Bernard Gombert 27300 BERNAY"
+    },
+    {
+      "link": "tel:0648170326",
+      "text": "06 48 17 03 26"
+    },
+    {
+      "link": "mailto:nfbpoulain@gmail.com",
+      "text": "nfbpoulain@gmail.com"
+    }
+  ],
+
+  "brandHeading": "Mes compétences",
+  "brandMotto": [
+    "Praticienne en Neurofeedback Thérapeutique Cygnet",
+    "Certifiée Neuroptimum",
+    "IFPNT (Institut de Formation Professionnelle en NFB Thérapeutique)"
+  ],
+
+  "back2topIcon": "/assets/images/to-top.svg",
+  "customerComment": "Revenir au haut de page"
+}

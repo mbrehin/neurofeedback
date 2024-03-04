@@ -1,0 +1,6 @@
+{
+  "navLogo": "/assets/images/logo.png",
+  "navLinks": ["accueil", "a-propos"],
+  "navBtnLink": "contact",
+  "navBtnText": "Contact"
+}
